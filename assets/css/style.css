@@ -86,7 +86,7 @@ h1, h2 {
 
 
 
-/* creates the leve of zoom for the hero image */
+/* creates the level of zoom for the hero image */
 
 @keyframes hero-zoom {
     from {
@@ -277,7 +277,7 @@ column-gap: 0;
         margin: 0;
     }
 
-    #left-about, right-about {
+    #left-about, #right-about {
         width: 100%;
         float: left;
         padding: 0;
@@ -288,6 +288,13 @@ column-gap: 0;
         width: 100%;
         float: left;
         padding: 0%;
+    }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
     }
 
     hr {
