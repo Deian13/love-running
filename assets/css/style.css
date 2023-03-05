@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: o;
-    border: none;
+    border: 0;
 }
 
 body { 
@@ -205,7 +205,7 @@ hr {
     background-image: url('../images/dublin-city.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: cecnter;
+    background-position: center;
     width: 100%;
     overflow: hidden;
 }
